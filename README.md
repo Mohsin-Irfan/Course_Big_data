@@ -38,11 +38,6 @@ table, th, td {
     <td>5</td>
   </tr>
 </table>
-</body>
-</html>
-<!DOCTYPE html>
-<html>
-<style>
 table, th, td {
   border:1px solid black;
 }

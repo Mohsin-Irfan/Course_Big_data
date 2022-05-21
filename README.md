@@ -72,5 +72,24 @@ used Big Data tools. Then, go beyond the hype and explore additional Big Data vi
 </body>
   </body>
 </html>
-
+<h2>Lecture Breakdown</h2>
+1 Python
+  Week1 : 
+         Introduction to Python
+         Python Data types (part 1)
+         Python Data types (part 2)
+  Week2: 
+         Conditional Statements and Loops
+         Functions and Array
+  Week3:
+         Classes/Objects, Math, JSON
+         File Handling
+        
+2. Data Analysis
+  Weel1:
+        Data Analysis
+        Introduction to Big Data and PySpark (part 1)
+        PySpark (part 2)
+   
+   
 

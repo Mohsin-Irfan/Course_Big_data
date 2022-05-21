@@ -1,8 +1,43 @@
-<h1><i>1</i>Big Data Analysis</h1>
+<h1>Big Data Analysis</h1>
 Course Outline (Course Duration: 2 Months)
 <h2>Introduction to Big Data Analysis Course:</h2>
 Begin your acquisition of Big Data knowledge with the most up-to-date definition of Big Data. You’ll
 explore the impact of Big Data on everyday personal tasks and business transactions with Big Data use
 cases. Learn how Big Data uses parallel processing, scaling, and data parallelism. Learn about commonly
 used Big Data tools. Then, go beyond the hype and explore additional Big Data viewpoints
-<h3>Course Learning Objectives</h3>
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<h2>Course Learning Objectives</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>CLO #</th>
+    <th>CLO Statement</th>
+    <th>Total Weeks</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>To familiarize with python basics</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>To understand the Data Analysis</td>
+    <td>3</td>
+  </tr>
+   <tr>
+    <td>3</td>
+    <td>To understand the Big Data Engineering</td>
+    <td>5</td>
+  </tr>
+</table>
+</body>
+</html>
+

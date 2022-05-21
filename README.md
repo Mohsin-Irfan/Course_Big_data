@@ -87,7 +87,7 @@ used Big Data tools. Then, go beyond the hype and explore additional Big Data vi
         
 2. Data Analysis
   Weel1:
-        Data Analysis
+        Data Analysis<br>
         Introduction to Big Data and PySpark (part 1)
         PySpark (part 2)
    

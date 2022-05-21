@@ -40,4 +40,50 @@ table, th, td {
 </table>
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<h2>List of Software</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Sr.no. #</th>
+    <th>Description</th>
+    <th>Payment Detail</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Python setup</td>
+    <td>Open Source</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Java setup</td>
+    <td>Open Source</td>
+  </tr>
+   <tr>
+    <td>3</td>
+    <td>Apache Spark</td>
+    <td>Open Source</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Hadoop</td>
+    <td>Open Source</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>AWS</td>
+    <td>Free tier account</td>
+  </tr>
+</table>
+</body>
+</html>
+
 

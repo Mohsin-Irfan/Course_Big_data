@@ -38,10 +38,6 @@ table, th, td {
   </tr>
 </table>
 
-table, th, td {
-  border:1px solid black;
-}
-</style>
 <body>
 
 <h2>List of Software</h2>

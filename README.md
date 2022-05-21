@@ -7,7 +7,8 @@ cases. Learn how Big Data uses parallel processing, scaling, and data parallelis
 used Big Data tools. Then, go beyond the hype and explore additional Big Data viewpoints
 <!DOCTYPE html>
 <html>
-<style>
+  <head>
+    <style>
 table, th, td {
   border:1px solid black;
 }
@@ -38,6 +39,7 @@ table, th, td {
     <td>5</td>
   </tr>
 </table>
+
 table, th, td {
   border:1px solid black;
 }

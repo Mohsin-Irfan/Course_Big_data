@@ -6,7 +6,7 @@ explore the impact of Big Data on everyday personal tasks and business transacti
 cases. Learn how Big Data uses parallel processing, scaling, and data parallelism. Learn about commonly
 used Big Data tools. Then, go beyond the hype and explore additional Big Data viewpoints
 <html>
-<style>
+  <style>
 table, th, td {
   border:1px solid black;
 }
@@ -37,6 +37,7 @@ table, th, td {
     <td>5</td>
   </tr>
 </table>
+
 table, th, td {
   border:1px solid black;
 }

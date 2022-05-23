@@ -1,4 +1,4 @@
-<h1>Big Data Analysis</h1>
+<h1>1. Big Data Analysis</h1>
 Course Outline (Course Duration: 2 Months)
 <h2>Introduction to Big Data Analysis Course:</h2>
 Begin your acquisition of Big Data knowledge with the most up-to-date definition of Big Data. You’ll
@@ -8,7 +8,7 @@ used Big Data tools. Then, go beyond the hype and explore additional Big Data vi
 <html>
 <body>
 
-<h2>Course Learning Objectives</h2>
+<h2>2. Course Learning Objectives</h2>
 
 <table style="width:100%">
   <tr>
@@ -35,7 +35,7 @@ used Big Data tools. Then, go beyond the hype and explore additional Big Data vi
 
 <body>
 
-<h2>List of Software</h2>
+<h2>3. List of Software</h2>
 
 <table style="width:100%">
   <tr>
@@ -73,7 +73,7 @@ used Big Data tools. Then, go beyond the hype and explore additional Big Data vi
   </body>
 </html>
 
-<h2>Lecture Breakdown</h2>
+<h2>4. Lecture Breakdown</h2>
 <h3> 1. Python</h3>
 <h4>Week 1: Introduction to Python , &nbsp &nbsp &nbsp Python Data types (part 1) , &nbsp &nbsp &nbsp Python Data types (part 2)</h4>
 <h4>Week 2: Conditional Statements and Loops , &nbsp &nbsp &nbsp Functions and Array</h4>
@@ -89,3 +89,4 @@ used Big Data tools. Then, go beyond the hype and explore additional Big Data vi
 <h3> 5. Hadoop and Hive SQL</h3>
 <h4>Week1: Hadoop and Hive SQL (Part 1)</h4>
 <h4>Week2: Hadoop and Hive SQL (Part 2)</h4>
+

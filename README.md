@@ -89,3 +89,12 @@ used Big Data tools. Then, go beyond the hype and explore additional Big Data vi
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2>5. Introduction to the Topics</h2>
 <h5>5.1.Introduction to Python:</h5>
+<h5>This is chapter One where we explore what it means to write programs. Where, you will set things up so
+you can write Python programs. Moreover, in this first chapter we try to cover the "big picture" of
+programming so you get a "table of contents" of the rest of the book.
+</h5>
+<h5>5.2.Python Data types (part 1):</h5>
+<h5>In this lecture we will be covering Strings and Lists, and moving into data structures. As we want to solve
+more complex problems in Python, we need more powerful variables. Starting with lists we will store
+many values in a single variable using an indexing scheme to store, organize, and retrieve different values
+from within a single variable.</h5>

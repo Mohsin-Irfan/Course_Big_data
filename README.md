@@ -7,7 +7,7 @@ cases. Learn how Big Data uses parallel processing, scaling, and data parallelis
 used Big Data tools. Then, go beyond the hype and explore additional Big Data viewpoints
 <html>
 <body>
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2>2. Course Learning Objectives</h2>
 
 <table style="width:100%">
@@ -34,7 +34,7 @@ used Big Data tools. Then, go beyond the hype and explore additional Big Data vi
 </table>
 
 <body>
-
+==============================================================================================================================================================
 <h2>3. List of Software</h2>
 
 <table style="width:100%">
@@ -72,7 +72,7 @@ used Big Data tools. Then, go beyond the hype and explore additional Big Data vi
 </body>
   </body>
 </html>
-
+==============================================================================================================================================================
 <h2>4. Lecture Breakdown</h2>
 <h3> 1. Python</h3>
 <h4>Week 1: Introduction to Python , &nbsp &nbsp &nbsp Python Data types (part 1) , &nbsp &nbsp &nbsp Python Data types (part 2)</h4>

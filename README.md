@@ -74,7 +74,7 @@ used Big Data tools. Then, go beyond the hype and explore additional Big Data vi
 </html>
 
 <h2>Lecture Breakdown</h2>
-<h4>Week 1: Introduction to Python,  Python Data types (part 1),  Python Data types (part 2)</h4>
+<h4>Week 1: Introduction to Python &nbsp &nbsp &nbsp Python Data types (part 1),  Python Data types (part 2)</h4>
 
 <h4>Week 2: Conditional Statements and Loops<br>
 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Functions and Array</h4>

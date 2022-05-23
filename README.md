@@ -89,5 +89,6 @@ used Big Data tools. Then, go beyond the hype and explore additional Big Data vi
 <h3> 5. Hadoop and Hive SQL</h3>
 <h4>Week1: Hadoop and Hive SQL (Part 1)</h4>
 <h4>Week2: Hadoop and Hive SQL (Part 2)</h4>
+
 <h2>5. Introduction to the Topics</h2>
 <h5>5.1.Introduction to Python:</h5>

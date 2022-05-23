@@ -73,5 +73,5 @@ used Big Data tools. Then, go beyond the hype and explore additional Big Data vi
   </body>
 </html>
 
-
 <h2>Lecture Breakdown</h2>
+<h3>Week 1</h3> Introduction to Python

@@ -31,7 +31,7 @@ used Big Data tools. Then, go beyond the hype and explore additional Big Data vi
    <tr>
     <td>3</td>
     <td>To understand the Big Data Engineering</td>
-    <td>5</td>
+     <td>5</td>
   </tr>
 </table>
 
